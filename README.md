@@ -1,8 +1,8 @@
-#DEEPer social Laravel app thingamajig
+# DEEPer social Laravel app thingamajig
 
 Yes it basically does nothing, it's not supposed to be a good or feature filled app, or look pretty, so there
 
-##Installation
+## Installation
 
 - Clone repo
 - `composer install`
